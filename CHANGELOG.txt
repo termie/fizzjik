@@ -1,0 +1,12 @@
+== 0.4.2 == 2008.06.08
+* Added a RESTish wrapper for services to make them accessible via the web
+* Added support for a delay between requests to the AVR to prevent collisions
+
+== 0.4.1 == 2008.06.06
+* Added support for the Denon AVR-3085
+
+== 0.4 == 2008.06.06
+* Moved modules in `input` and `output` to `io`, added warnings
+
+== 0.3 == 2007.01.15
+* Added the IConfigurable interface and fizzjik.config.ConfigurableMixin
